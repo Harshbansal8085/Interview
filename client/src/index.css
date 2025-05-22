@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(231, 235, 234);
+}
+
+.formatted-text {
+    white-space: pre-wrap;
+  }
+  
